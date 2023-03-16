@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552213175579",
+    "project_id": "manchester-city-2ed5f",
+    "storage_bucket": "manchester-city-2ed5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552213175579:android:dce7aeed3598f7d9c5c7be",
+        "android_client_info": {
+          "package_name": "ra.alcode.manchestercity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552213175579-7m1ft4pi5f9h6gphr8ln7mkog9857k6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxDZ87SufdMAXTUBuqVZD-A0sUiAQBuXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552213175579-7m1ft4pi5f9h6gphr8ln7mkog9857k6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

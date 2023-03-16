@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">ManchesterCity</string>
+    <string name="england_london">England - London</string>
+    <string name="manchester_city">Manchester City</string>
+    <string name="about">About</string>
+    <string name="_45">45</string>
+    <string name="_2rd">2rd</string>
+    <string name="see_more">see more</string>
+    <string name="games">Games</string>
+    <string name="_26">26</string>
+    <string name="won">Won</string>
+    <string name="_22">22</string>
+    <string name="draw">Draw</string>
+    <string name="_3">3</string>
+    <string name="lost">Lost</string>
+    <string name="_1">1</string>
+    <string name="player">Player</string>
+    <string name="physical_parameters">Physical Parameters</string>
+    <string name="weight">Weight</string>
+    <string name="biography">Biography</string>
+    <string name="email_raihanalghiffary28_gmail_com">Email : raihanalghiffary28@gmail.com</string>
+    <string name="name_raihan_alghiffari">Name : Raihan Alghiffari</string>
+    <string-array name="player_name">
+        <item>Erling Haaland</item>
+        <item>Phil Foden</item>
+        <item>Riyad Mahrez</item>
+        <item>Kevin De Bruyne</item>
+        <item>Bernardo Silva</item>
+        <item>Kalvin Phillips</item>
+        <item>Nathan Aké</item>
+        <item>Rúben Dias</item>
+        <item>John Stones</item>
+        <item>Rico Lewis</item>
+        <item>Ederson Moraes</item>
+    </string-array>
+    <string-array name="player_shirt_number">
+        <item>9</item>
+        <item>47</item>
+        <item>26</item>
+        <item>17</item>
+        <item>20</item>
+        <item>4</item>
+        <item>6</item>
+        <item>3</item>
+        <item>5</item>
+        <item>82</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="position">
+        <item>Forward</item>
+        <item>Midfielder</item>
+        <item>Forward</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>goalkeeper</item>
+    </string-array>
+    <string-array name="player_game">
+        <item>22</item>
+        <item>21</item>
+        <item>22</item>
+        <item>26</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>26</item>
+        <item>26</item>
+        <item>26</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="player_minute">
+        <item>2980</item>
+        <item>2123</item>
+        <item>1762</item>
+        <item>3028</item>
+        <item>2889</item>
+        <item>352</item>
+        <item>2619</item>
+        <item>2417</item>
+        <item>2064</item>
+        <item>843</item>
+        <item>2880</item>
+    </string-array>
+    <string-array name="player_goal">
+        <item>39</item>
+        <item>13</item>
+        <item>12</item>
+        <item>7</item>
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="player_assists">
+        <item>5</item>
+        <item>6</item>
+        <item>5</item>
+        <item>18</item>
+        <item>8</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="player_weight">
+        <item>88</item>
+        <item>70</item>
+        <item>67</item>
+        <item>70</item>
+        <item>64</item>
+        <item>72</item>
+        <item>71</item>
+        <item>76</item>
+        <item>70</item>
+        <item>70</item>
+        <item>89</item>
+    </string-array>
+    <string-array name="player_height">
+        <item>194</item>
+        <item>171</item>
+        <item>179</item>
+        <item>181</item>
+        <item>173</item>
+        <item>178</item>
+        <item>180</item>
+        <item>186</item>
+        <item>188</item>
+        <item>175</item>
+        <item>188</item>
+    </string-array>
+    <string-array name="player_age">
+        <item>22</item>
+        <item>22</item>
+        <item>32</item>
+        <item>31</item>
+        <item>28</item>
+        <item>27</item>
+        <item>28</item>
+        <item>25</item>
+        <item>28</item>
+        <item>18</item>
+        <item>29</item>
+    </string-array>
+    <string-array name="player_bio">
+        <item>Erling Braut Haaland adalah seorang pemain sepak bola profesional asal Norwegia yang bermain sebagai penyerang untuk klub Liga Utama Inggris Manchester City dan tim nasional Norwegia. Haaland memulai kariernya di klub kota asalnya Bryne FK pada 2016, dan pindah ke Molde FK tahun berikutnya selama dua tahun. Pada Januari 2019, tim Austria Red Bull Salzburg mengontraknya dengan durasi lima tahun.[6] Di Liga Champions UEFA 2019–2020, ia menjadi remaja pertama yang mencetak gol dalam lima pertandingan Liga Champions UEFA berturut-turut.[7] Pada tanggal 29 Desember 2019, Håland menyelesaikan transfer ke Borussia Dortmund dengan mahar yang dilaporkan berkisar € 20 juta.</item>
+        <item>Phil Foden adalah seorang pesepakbola profesional asal Inggris yang bermain sebagai gelandang untuk klub Liga Utama Inggris, Manchester City dan tim nasional Inggris. Terkenal karena visi, serta kreativitas dalam bermain yang menjadikannya sebagai salah satu pesepakbola muda potensial di dunia. Namanya mulai dikenal pada tahun 2017 ketika memenangkan penghargaan Bola Emas (pemain terbaik) Piala Dunia U-17 FIFA setelah hasil sukses yang dicapai Inggris pada ajang tersebut. Ia melakukan debut untuk Manchester City pada tahun yang sama dan pada bulan Desember ia dianugerahi BBC Young Sports Personality of the Year.</item>
+        <item>Riyad Mahrez adalah seorang pemain sepak bola berkewarganegaraan Aljazair kelahiran Prancis yang bermain untuk klub Manchester City biasa bermain pada posisi gelandang sayap kanan. Mahrez memulai karier juniornya di klub AAS Sarcelles kemudian memulai karier seniornya di klub tersebut. Sempat pindah ke Quimper dan Le Havre sebelum bergabung dengan Leicester City pada tahun 2014.[2][3] Lalu bergabung dengan Manchester City F.C. pada bursa transfer musim panas 2018–2019.</item>
+        <item>Kevin De Bruyne adalah seorang pemain professional sepak bola asal Belgia yang bermain untuk Manchester City di Liga Utama Inggris dari posisi gelandang dan timnas Belgia yang juga dalam posisi gelandang. Pada akhir Agustus 2015, Manchester City mendatangkan Kevin De Bruyne pada musim 2016/17 dengan kontrak 6 tahun, dengan biaya rekor klub yang dilaporkan sebesar £55 juta (€75 juta), menjadikannya transfer termahal kedua dalam sejarah sepak bola Inggris setelah Angel Di Maria pindah ke Manchester United pada tahun 2014.[19] Pada tanggal 12 Mei 2022, saat Man City menghadapi Wolves, Man City menang 5–1 atas Wolves. Dari 5 Gol Manchester City, 4 gol dicetak oleh Kevin De Bruyne. Satu golnya lagi dicetak oleh Raheem Sterling. Ia pun segera dijadikan MOTM(Man Of The Match) dari pertandingan tersebut.[20]</item>
+        <item>Bernardo Mota Veiga de Carvalho e Silva adalah seorang pemain sepak bola profesional asal Portugal yang bermain untuk tim Inggris Manchester City dan tim nasional Portugal sebagai gelandang. Pada 26 Mei 2017, Manchester City mengkonfirmasi perekrutan Silva dengan kontrak lima tahun setelah lulus tes kesehatan. Meskipun biaya transfer yang masih dirahasiakan, dilaporkan sebesar €50 juta (£43.5 juta).[10] Silva resmi bergabung dengan tim pada 1 Juli 2017, menjelang bergulirnya musim 2017–18.[11]</item>
+        <item>Kalvin Mark Phillips adalah seorang pemain sepak bola profesional Inggris yang berposisi sebagai gelandang. Ia saat ini bermain untuk tim Premier League Manchester City dan tim nasional sepak bola Inggris.</item>
+        <item>Nathan Benjamin Aké adalah seorang pemain sepak bola asal Belanda yang saat ini bermain untuk Manchester City. Dia biasa bermain sebagai bek terutama sebagai bek tengah, selain dapat bermain sebagai gelandang bertahan dan bek kiri. Pada tanggal 5 Agustus 2020, Ake menandatangani kontrak dengan Manchester City, dengan kontrak lima tahun, dengan biaya yang dilaporkan sebesar £41 juta. Ake melakukan debutnya di pertandingan pertama City musim ini pada 21 September, menang 3–1 melawan Wolverhampton Wanderers jauh dari rumah di Liga Premier.</item>
+        <item>Rúben dos Santos Gato Alves Dias adalah pemain sepak bola profesional asal Portugal yang bermain sebagai bek tengah untuk klub Liga Premier, Manchester City dan juga tim nasional Portugal. Dias berasal dari akademi remaja Benfica. Ia mulai bermain untuk Benfica B pada 2015 dan dipromosikan ke tim utama pada 2017, dan dinobatkan sebagai Pemain Muda Terbaik Primeira Liga 2017–18. Musim berikutnya, penampilan Dias membantu Benfica memenangkan gelar liga pada musim 2018–19 dan kemudian Supertaça Cândido de Oliveira 2019, ia juga masuk dalam Tim Terbaik Primeira Liga 2019–20. Ia pindah ke klub Liga Premier Manchester City pada September 2020 dengan biaya transfer yang dilaporkan sebesar € 65 juta.</item>
+        <item>John Stones adalah seorang pemain sepak bola berkewarganegaraan Inggris yang bermain untuk klub Manchester City biasa bermain pada posisi bek. Stones memulai karier juniornya di Barnsley kemudian memulai karier seniornya di klub tersebut, sebelum bergabung dengan Everton pada tahun 2013. Stones memulai karier juniornya di Barnsley kemudian memulai karier seniornya di klub tersebut, sebelum bergabung dengan Everton pada tahun 2013.</item>
+        <item>Rico Henry Lewis adalah pemain sepak bola profesional Inggris yang bermain sebagai bek untuk klub Premier League Manchester City dan tim nasional U-18 Inggris. Nama Rico Lewis tercatat dalam sejarah Manchester City dan Liga Champions. Pada usia 17 tahun, Rico Lewis mencatat rekor penting dengan mencetak gol di fase grup Liga Champions.</item>
+        <item>Ederson Santana de Moraes adalah pemain sepak bola profesional berkebangsaan Brasil yang bermain untuk klub Manchester City dan timnas Brasil sebagai penjaga gawang. Dia memulai kariernya di São Paulo pada 2008, sebelum bergabung dengan klub Portugal Benfica, satu tahun kemudian, di mana dia menghabiskan dua musim sebagai junior. Pada 2012, ia pindah dari Ribeirao ke Rio Ave. Dia bergabung kembali dengan Benfica pada tahun 2015 dan ditugaskan ke cadangan sebelum memulai debut untuk tim pertama, dengan siapa dia akan memenangkan empat gelar utama dalam dua musim. Setelah akhir musim 2016–17, ia bergabung dengan klub Manchester City seharga £ 35 juta, menjadi penjaga gawang termahal sepanjang masa dalam hal nilai nominal Pound pada saat transfernya.</item>
+    </string-array>
+
+    <string-array name="player_photo">
+        <item>https://www.mancity.com/meta/media/233jlh2j/microsoftteams-image-127.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/2ozp4m04/phil-foden.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/3mjhpfve/riyad-mahrez.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/4jeo4c53/kevin-de-bruyne.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/idanln53/bernardo-silva.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/ptpfyzte/kalvinphillips.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/oelcevzg/nathan-ake-r.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/yowlxkfa/ruben-dias.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/4cicyu5v/john-stones.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/vnklmpoz/rico-lewis-v2.png?width=600</item>
+        <item>https://www.mancity.com/meta/media/xg0cuprp/ederson.png?width=600</item>
+    </string-array>
+</resources>
